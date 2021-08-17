@@ -161,6 +161,3 @@ def play_alert():
 
 
 run()
-
-# https://login.taobao.com/member/login.jhtml?from=taobaoindex&f=top&style=&sub=true&redirect_url=https%3A%2F%2Fshoucang.taobao.com%2Fitem_collect_n.htm%3Fspm%3Da1z0k.7628869.1997525053.1.441a596fEPFUB0
-# 300-42 + 1 = 259
